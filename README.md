@@ -5,7 +5,6 @@ This project performs unsupervised machine learning on clinical Electronic Healt
 Using K-Means clustering and PCA, we discover meaningful patterns that help differentiate metabolic, glycemic, and dyslipidemic risk groups.
 
 ## 📂 Project Structure
-
 │── data/
 │    └── Dataset.csv
 │── notebook/

@@ -4,13 +4,6 @@ K-Means Clustering on Electronic Health Record (EHR) Data
 This project performs unsupervised machine learning on clinical Electronic Health Record (EHR) data to identify patient subtypes for Type 2 Diabetes Mellitus.
 Using K-Means clustering and PCA, we discover meaningful patterns that help differentiate metabolic, glycemic, and dyslipidemic risk groups.
 
-## 📂 Project Structure
-│── data/
-│    └── Dataset.csv
-│── notebook/
-│    └── diabetes_clustering.ipynb
-│── Clustered_Diabetes_Patients.csv
-│── README.md
 
 
 ## 🚀 Project Workflow
